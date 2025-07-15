@@ -1,0 +1,5 @@
+{
+    "editor.suggest.selectionMode": "always",
+    "emmet.useInlineCompletions": false,
+    "editor.inlineSuggest.edits.renderSideBySide": "auto"
+}
